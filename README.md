@@ -1,4 +1,4 @@
-## Hi there 👋
+![Estadísticas de GitHub](https://raw.githubusercontent.com/FabsGMartin/github-stats-terminal-style/refs/heads/master/github_stats.svg)
 
 <!--
 **FabsGMartin/FabsGMartin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
